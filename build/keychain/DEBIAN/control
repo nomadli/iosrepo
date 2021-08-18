@@ -4,8 +4,8 @@ Source: keychain
 Version: 1.0.0
 Description: keychain delete
 Section: utils
-Pre-Depends: no
-Depends: no
+Pre-Depends:
+Depends:
 Essential: no
 Priority: optional
 Architecture: iphoneos-arm

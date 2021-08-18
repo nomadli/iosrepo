@@ -4,13 +4,11 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Essential: no
 Maintainer: nomadli <https://nomadli.github.io>
-Pre-Depends: no
-Depends: no
 Filename: ./debs/keychain.deb
-Size: 12460
-MD5sum: 776dbfc9cd406e431a990e3ea52307ec
-SHA1: 9d7df50c631d7b83571bb3c5da2af29dfe3f8686
-SHA256: 0e12ce1cefd44448aa33dd4dd8dbaa880257697cedb5823dfb8a8a256f2c758f
+Size: 12184
+MD5sum: 5c33c215fa6a9d3094f55d3c470f4cfe
+SHA1: 8acde6eb319c53e025731a4c7211f2c5cd97fa8c
+SHA256: daeb7cefd10fd4c40822ccbc11e7866d90f6c5e8ac36e282d78524b8956c24d6
 Section: utils
 Priority: optional
 Homepage: https://nomadli.github.io
