@@ -1,0 +1,8 @@
+Origin: nomadli's Repo
+Label: nomadli's Repo
+Suite: stable
+Version: 1.0
+Codename: nomadli
+Architectures: iphoneos-arm
+Components: main
+Description: nomadli's ios Repo

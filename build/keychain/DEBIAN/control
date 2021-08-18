@@ -1,0 +1,14 @@
+Package: com.nomadli.tools.keychain
+Name: keychain
+Source: keychain
+Version: 1.0.0
+Description: keychain delete
+Section: utils
+Pre-Depends: no
+Depends: no
+Essential: no
+Priority: optional
+Architecture: iphoneos-arm
+Author: nomadli <dzym79@qq.com>
+Homepage: https://nomadli.github.io
+Maintainer: nomadli <https://nomadli.github.io>
